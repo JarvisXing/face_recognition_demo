@@ -1,4 +1,7 @@
 # face_recognition_demo
+
+![](https://img.shields.io/badge/python-3.6-blue.svg)
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)  
 this demo includes three notebook.  
 windows 10, python 3.6.  
 ## software
