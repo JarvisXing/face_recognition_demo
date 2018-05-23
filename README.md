@@ -1,6 +1,6 @@
 # face_recognition_demo
-this demo includes three .ipynb in windows 10,
-python 3.6.  
+this demo includes three notebook.  
+windows 10, python 3.6.  
 ## software
 before run this demo,you'd better to install these lib  
 1. [Anaconda3 for windows](https://www.anaconda.com/download)  
